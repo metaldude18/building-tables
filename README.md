@@ -1,2 +1,3 @@
 # building-tables
-practice for table building
+Practice for table building with HTML/CSS
+
